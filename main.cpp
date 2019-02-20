@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    Compress("test.png");
+    // Call Compress(your_file_name);
     
     cin.get();
     return 0;
